@@ -53,11 +53,6 @@
 
 ## 🚀 Быстрый старт
 
-### Установка зависимостей:
-
 ```bash
 git clone https://github.com/your-username/analyst-job-market-analysis.git
 cd analyst-job-market-analysis
-
-# Установка зависимостей
-pip install -r scripts/requirements.txt
